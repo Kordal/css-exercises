@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.class{
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#number2{
+    color: #2926eb;
+    font-size: 36px;
+}
+
+.number3{
+    font-size: 24px;
+}
+
+#number4{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #b2eb91;
+}
